@@ -1,0 +1,6 @@
+# One nGeniusONE host per line. Bare hosts default to HTTPS port 8443.
+192.0.2.10
+
+# Explicit URLs and ports are also accepted:
+# https://ng1.example.com:8443
+# https://example.netscout.cloud
