@@ -1,0 +1,17 @@
+# Local targets and credentials
+hosts.txt
+.env
+*.password
+*cookies*
+
+# Packet captures can be large and may contain sensitive data
+*.pcap
+*.pcapng
+*.cap
+pcaps/*
+!pcaps/.gitkeep
+
+# Editor and OS files
+*~
+*.swp
+.DS_Store
